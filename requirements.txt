@@ -1,0 +1,5 @@
+yt-dlp[default,curl-cffi]
+certifi
+brotlicffi
+mutagen
+requests
